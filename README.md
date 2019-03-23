@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning: Principles and Practices
 
 
-Code of the book <Deep Reinforcement Learning: Principles and Practices>
+Code of the book < Deep Reinforcement Learning: Principles and Practices >
 
 《深度强化学习：原理与实践》随书代码
 
